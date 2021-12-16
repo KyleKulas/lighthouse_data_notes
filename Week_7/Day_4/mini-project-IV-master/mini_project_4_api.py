@@ -9,17 +9,18 @@ api = Api(app)
     
 model = pickle.load(open('log_reg_model.sav', 'rb'))
 
-class Scoring(Resource):
+class Loan_Status_Prediction(Resource):
     def post(self):
         json_data = request.get_json()
+        print(json_data)
         df = pd.DataFrame(json_data.values(),
                           index=json_data.keys()).transpose()
         res = model.predict(df)
         
         return res.tolist()
     
-api.add_resource(Scoring, '/scoring')
+api.add_resource(Loan_Status_Prediction, '/loan')
 
 if __name__ == '__main__':
-    app.run(debug=True,  port=5000)
+    app.run(debug=True, host='0.0.0.0',port=5000)
     
