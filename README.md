@@ -6,7 +6,7 @@ This repository contains all of the notes taken by [Kyle Kulas](https://github.c
 ## Table of Contents
 ### Mini Projects
 
-* [Transport for London fatalies analysis](/Week1/mini-project-I)
+* [Transport for London fatalies analysis](Week_1\mini-project-I)
 * [Shortest route to top 10 restauranst and bars](/Week2/mini-project-II-master)
 * [Bank customer analysis](/Week_4/mini-project-III)
 * [Automated loan approval model](/Week_7/mini-project-IV-master)
