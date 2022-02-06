@@ -7,10 +7,10 @@ This repository contains all of the notes taken by [Kyle Kulas](https://github.c
 ### Mini Projects
 
 * [Transport for London fatalies analysis](Week_1\mini-project-I)
-* [Shortest route to top 10 restauranst and bars](/Week2/mini-project-II-master)
+* [Shortest route to top 10 restauranst and bars](/Week_2/mini-project-II-master)
 * [Bank customer analysis](/Week_4/mini-project-III)
 * [Automated loan approval model](/Week_7/mini-project-IV-master)
-* [Quora duplicate question recognition](/Week_9/mini-projectp-V-master)
+* [Quora duplicate question recognition](/Week_9/mini-project-V-master)
 
 ### Notes
 * [Week 1](/Week_1)
