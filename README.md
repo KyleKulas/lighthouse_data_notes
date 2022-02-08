@@ -1,6 +1,6 @@
 # Kyle's Notes
 
-This repository contains all of the notes taken by [Kyle Kulas](https://github.com/KyleKulas) for the [Lighthouse Labs](http://www.lighthouselabs.ca)
+This repository contains all of the notes taken by [me](https://github.com/KyleKulas) for the [Lighthouse Labs](http://www.lighthouselabs.ca)
  Data Science Bootcamp. These are my personal notes and are a work in progress. A lot of the code in here is messy, contains errors, and may not follow good coding practices.
 
 ## Table of Contents
